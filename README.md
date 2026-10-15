@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Shahana S 👋
 
-<!--
-**shahana00-bca/shahana00-bca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Django | Full-Stack Web Development
 
-Here are some ideas to get you started:
+I'm a BCA graduate currently working as a Python intern at iROHUB Infotech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing web applications, building backend functionality, and working with databases to create practical software solutions.
+
+## 🛠️ Technical Skills
+
+**Programming Language**
+
+* Python
+
+**Backend Development**
+
+* Django
+
+**Frontend Development**
+
+* HTML, CSS, JavaScript
+
+**Database Management**
+
+* MySQL
+
+**Mobile App Development**
+
+* Flutter
+
+## 🚀 Featured Project
+
+### SOULHUB — AI-Based Psychological Consultation System
+
+An online psychological consultation system that uses Natural Language Processing (NLP) to predict emotions from daily diary entries and supports online psychological consultations.
+
+**Technologies Used:** Python, Django, MySQL, NLP, Flutter
+
+🔗 [View SOULHUB Project](https://github.com/shahana00-bca/soulhub)
+
+## 🎓 Education
+
+Bachelor of Computer Applications (BCA)
+
+## 📫 Connect With Me
+
+* **GitHub:** [shahana00-bca](https://github.com/shahana00-bca)
+* **Email:** [shahanasofficialls@gmail.com](mailto:shahanasofficialls@gmail.com)
